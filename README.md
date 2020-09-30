@@ -1,2 +1,5 @@
-# HelloWorldPY
-My first. Hello World Program in python with some sum, differences functions too.
+# HelloWorld Program in Python.
+My first. Hello World Program in python. 
+  - Printing Hello World.
+  - Sum.
+  - Difference.
